@@ -25,7 +25,6 @@ namespace SamuraiAppCore.Data
             return samurais;
         }
 
-
         public Samurai LoadSamuraiGraph(int id)
         {
             var samurai =
